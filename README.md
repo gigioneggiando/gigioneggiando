@@ -28,12 +28,11 @@ projects. Real, verifiable outcomes:
 
 - **CVE-2026-85724** — Critical (CVSS 9.6): pattern-ACL wildcard injection in the **moquette** MQTT broker.
 - **CVE-2026-73213** — **coturn** TURN/STUN relay (IPv6 range-comparison SSRF).
-- **Published GitHub Security Advisories** crediting me — **authentik**, **coturn**, **vaultwarden**.
 - **[LiveKit Security Hall of Fame](https://livekit.com/security/hall-of-fame)** — credited researcher.
-- **Merged upstream security fixes** — libcsp, halloy, legba, moquette, gguf-tools, open62541.
 
 Every finding is human-triaged, cross-validated, and PoC-verified where feasible, then disclosed
-through each project's security policy. → **Live findings: [gigioneggiando.github.io/argo](https://gigioneggiando.github.io/argo/)**
+through each project's security policy. The full record of published advisories and merged upstream
+fixes is on the → **live findings site: [gigioneggiando.github.io/argo](https://gigioneggiando.github.io/argo/)**
 
 ### 🛠️ Projects
 
@@ -46,13 +45,13 @@ through each project's security policy. → **Live findings: [gigioneggiando.git
 
 ### 🌱 Currently
 
-- Teaching assistant for the **Operating Systems** course @ SDU.
+- Student teaching assistant for the **Operating Systems** course @ SDU (helping students with labs and exercises).
 - Exploring research in **LLMs & AI agents** for software security.
 
 ### 🧰 Stack
 
 `Python` · `C# / .NET 9` · `TypeScript / Next.js` · `FastAPI` · `PostgreSQL / pgvector` ·
-`Docker` · LLM pipelines & agents · application-security & responsible disclosure
+`MySQL` · `Docker` · LLM pipelines & agents · application-security & responsible disclosure
 
 ### 📫 Connect
 
