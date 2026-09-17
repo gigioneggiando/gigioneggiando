@@ -1,3 +1,11 @@
+<!--
+  GitHub PROFILE README — source of truth.
+  Deploy: create a PUBLIC repo named exactly `gigioneggiando`, put this in its README.md.
+  Rules kept: no PII beyond city, no sponsor/donation links, no embargoed findings,
+  no aggregate "877" figure (only the public numbers already shown on the Argo site).
+  Every claim here is public + verifiable. Keep in sync with career_data/recognitions.yaml.
+-->
+
 <h1 align="center">Luigi Colluto</h1>
 
 <p align="center">
@@ -56,5 +64,4 @@ fixes is on the → **live findings site: [gigioneggiando.github.io/argo](https:
 ### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/luigi-colluto-600450327) ·
-[luigicolluto2006@gmail.com](mailto:luigicolluto2006@gmail.com) ·
-[agerculture.com](https://agerculture.com)
+[luigicolluto2006@gmail.com](mailto:luigicolluto2006@gmail.com)
