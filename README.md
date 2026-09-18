@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CVE--2026--85724-Critical%209.6-red" alt="CVE-2026-85724">
   <img src="https://img.shields.io/badge/CVE--2026--73213-coturn-orange" alt="CVE-2026-73213">
+  <img src="https://img.shields.io/badge/CVE--2026--82410-PocketBase-orange" alt="CVE-2026-82410">
   <img src="https://img.shields.io/badge/LiveKit-Security%20Hall%20of%20Fame-blue" alt="LiveKit Hall of Fame">
 </p>
 
