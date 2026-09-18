@@ -37,6 +37,7 @@ projects. Real, verifiable outcomes:
 
 - **CVE-2026-85724** — Critical (CVSS 9.6): pattern-ACL wildcard injection in the **moquette** MQTT broker.
 - **CVE-2026-73213** — **coturn** TURN/STUN relay (IPv6 range-comparison SSRF).
+- **CVE-2026-82410** — **PocketBase** (High, CVSS 8.7): unhandled panics in worker goroutines.
 - **[LiveKit Security Hall of Fame](https://livekit.com/security/hall-of-fame)** — credited researcher.
 
 Every finding is human-triaged, cross-validated, and PoC-verified where feasible, then disclosed
