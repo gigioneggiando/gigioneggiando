@@ -34,3 +34,9 @@ At SDU, I contributed to [Beyond Patching](https://portal.findresearcher.sdu.dk/
 Most of my work uses `Python`, `C# / .NET`, `TypeScript`, `PostgreSQL` and `Docker`.
 
 Away from code, I return to philosophy, literature and cinema. Some of the questions they leave me with are in my [notebook](https://gigioneggiando.com/notebook.html).
+
+---
+
+> These people, who do not know one another, are saving the world.
+>
+> — Jorge Luis Borges, [*Los justos*](https://www.siruela.com/archivos/fragmentos/BondadInsensataG.pdf)
