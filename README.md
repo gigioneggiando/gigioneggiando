@@ -1,69 +1,23 @@
-<!--
-  GitHub PROFILE README — source of truth.
-  Deploy: create a PUBLIC repo named exactly `gigioneggiando`, put this in its README.md.
-  Rules kept: no PII beyond city, no sponsor/donation links, no embargoed findings,
-  no aggregate "877" figure (only the public numbers already shown on the Argo site).
-  Every claim here is public + verifiable. Keep in sync with career_data/recognitions.yaml.
--->
+# Hi, I'm Gigi!
 
-<h1 align="center">Luigi Colluto</h1>
+I'm Luigi Colluto, a software engineering student at the University of Southern Denmark, based in Sønderborg. I build software, work on AI and security, and like understanding how things work well enough to question them.
 
-<p align="center">
-  Software Engineering student @ University of Southern Denmark ·
-  I build <b>LLM-native security tooling</b> and full-stack systems.
-</p>
+[Explore my work](https://gigioneggiando.com/work.html) · [gigioneggiando.com](https://gigioneggiando.com/) · [LinkedIn](https://www.linkedin.com/in/luigi-colluto-600450327)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luigi-colluto-600450327">LinkedIn</a> ·
-  <a href="https://gigioneggiando.github.io/argo/">Argo findings</a> ·
-  <a href="https://agerculture.com">agerculture.com</a> ·
-  <a href="mailto:luigicolluto2006@gmail.com">Email</a>
-</p>
+## Things I build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CVE--2026--85724-Critical%209.6-red" alt="CVE-2026-85724">
-  <img src="https://img.shields.io/badge/CVE--2026--73213-coturn-orange" alt="CVE-2026-73213">
-  <img src="https://img.shields.io/badge/CVE--2026--82410-PocketBase-orange" alt="CVE-2026-82410">
-  <img src="https://img.shields.io/badge/LiveKit-Security%20Hall%20of%20Fame-blue" alt="LiveKit Hall of Fame">
-</p>
+**[Argo](https://github.com/gigioneggiando/argo)** helps me review source code for security vulnerabilities using language models. I design the workflow and review the findings before reporting them to maintainers. The [public archive](https://gigioneggiando.com/argo/findings.html) links to advisories and upstream fixes, so you can follow the evidence.
 
----
+**[Ager](https://agerculture.com)** is a news project I co-founded and build end to end. It brings articles together while keeping links to their original sources. I work across its .NET backend, Next.js frontend, PostgreSQL database and self-hosted infrastructure.
 
-### 🔎 Security research
+## Along the way
 
-I run **[Argo](https://github.com/gigioneggiando/argo)**, my own LLM-native vulnerability
-scanner, as the front of a **coordinated responsible-disclosure** program across open-source
-projects. Real, verifiable outcomes:
+At SDU, I contributed to [Beyond Patching](https://portal.findresearcher.sdu.dk/en/projects/beyond-patching-empowering-organizations-to-stay-ahead-of-softwar/) and continue collaborating on AI and software security research. I also help students with Operating Systems as a teaching assistant.
 
-- **CVE-2026-85724** — Critical (CVSS 9.6): pattern-ACL wildcard injection in the **moquette** MQTT broker.
-- **CVE-2026-73213** — **coturn** TURN/STUN relay (IPv6 range-comparison SSRF).
-- **CVE-2026-82410** — **PocketBase** (High, CVSS 8.7): unhandled panics in worker goroutines.
-- **[LiveKit Security Hall of Fame](https://livekit.com/security/hall-of-fame)** — credited researcher.
+In November, I'll join Danfoss as a Student Worker in CRM Delivery.
 
-Every finding is human-triaged, cross-validated, and PoC-verified where feasible, then disclosed
-through each project's security policy. The full record of published advisories and merged upstream
-fixes is on the → **live findings site: [gigioneggiando.github.io/argo](https://gigioneggiando.github.io/argo/)**
+I work mostly with Python, C#/.NET, TypeScript, PostgreSQL and Docker.
 
-### 🛠️ Projects
+Away from code, there's philosophy, literature and cinema. My [notebook](https://gigioneggiando.com/notebook.html) is a place for some of the questions they leave me with.
 
-- **[Argo](https://github.com/gigioneggiando/argo)** — LLM-native static vulnerability detection.
-  An LLM reads your source like a human auditor; guardrails enforced in code, detection-only,
-  multi-backend (Claude / Codex / local OSS). *Python · Apache-2.0.*
-- **[Ager](https://agerculture.com)** — a non-profit, link-first quality-news aggregator I
-  **co-founded** and engineer end-to-end (*live beta*). *.NET 9 · Next.js 16 ·
-  PostgreSQL/pgvector, self-hosted.*
-
-### 🌱 Currently
-
-- Student teaching assistant for the **Operating Systems** course @ SDU (helping students with labs and exercises).
-- Exploring research in **LLMs & AI agents** for software security.
-
-### 🧰 Stack
-
-`Python` · `C# / .NET 9` · `TypeScript / Next.js` · `FastAPI` · `PostgreSQL / pgvector` ·
-`MySQL` · `Docker` · LLM pipelines & agents · application-security & responsible disclosure
-
-### 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/luigi-colluto-600450327) ·
-[luigicolluto2006@gmail.com](mailto:luigicolluto2006@gmail.com)
+[Write to me](mailto:luigicolluto2006@gmail.com) if something here catches your attention.
